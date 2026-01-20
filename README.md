@@ -63,5 +63,5 @@ docker run -d -p 8080:80 docker-portfolio
 http://localhost:8080
 
 📸 Screenshot
-![Docker Portfolio Running](<img width="1904" height="989" alt="screenshot" src="https://github.com/user-attachments/assets/d5ff7e7d-9acb-4b3b-8389-80fdaca2f2d4" />
+![Docker Portfolio Running](screenshot.png)
 )
